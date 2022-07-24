@@ -229,8 +229,8 @@ async def initiate_bot():
     console.print(f"\n[red]sᴛᴏᴘᴘɪɴɢ ʙᴏᴛ")
 
 
-home_text_pm = f"""Selam [Bebeğim](tg://settings),
-Ben Katrina Music Bot Sesli Sohbetlerde Müzik ve video oynayabilirim beni gruba yönetici olarak ekleyip kesintisiz müziğin tadını çıkarabilirsiniz...!
+home_text_pm = f"""Selam [DOSDUM](tg://settings),
+Ben TT Music Bot Sesli Sohbetlerde Müzik ve video oynayabilirim beni gruba yönetici olarak ekleyip kesintisiz müziğin tadını çıkarabilirsiniz...!
 
 Komutlarıma Aşağıdaki butonlardan bakabilirsiniz: / """
 
@@ -372,8 +372,8 @@ async def help_parser(name, keyboard=None):
     if not keyboard:
         keyboard = InlineKeyboardMarkup(paginate_modules(0, HELPABLE, "help"))
     return (
-        """Selam [Tatlım](tg://settings),
-Ben Katrina Music Bot Sesli Sohbetlerde Müzik ve Video oynatabilirim beni gruba yönetici olarak ekleyip kesintisiz müziğin tadını çıkartabilirsiniz.
+        """Selam [ARKADASIM](tg://settings),
+Ben TT Music Bot Sesli Sohbetlerde Müzik ve Video oynatabilirim beni gruba yönetici olarak ekleyip kesintisiz müziğin tadını çıkartabilirsiniz.
 
 Butonlara Tıklayarak komutlarıma bakabilirsiniz: `/`
 """.format(
