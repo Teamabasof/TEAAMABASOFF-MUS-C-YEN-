@@ -229,7 +229,7 @@ async def initiate_bot():
     console.print(f"\n[red]sᴛᴏᴘᴘɪɴɢ ʙᴏᴛ")
 
 
-home_text_pm = f"""Selam [DOSDUM](tg://settings),
+home_text_pm = f"""Selam [Dostum](tg://settings),
 Ben TT Music Bot Sesli Sohbetlerde Müzik ve video oynayabilirim beni gruba yönetici olarak ekleyip kesintisiz müziğin tadını çıkarabilirsiniz...!
 
 Komutlarıma Aşağıdaki butonlardan bakabilirsiniz: / """
